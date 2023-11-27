@@ -1,24 +1,7 @@
-# initial
+## Тестовое задание
+**Хочу заметить что папка node_modules отстутсвует
 
-## Project setup
-```
-npm install
-```
+Для запуска проекта использовать команду ``npm run serve 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Файл data.json лежит по адресу src/assets/data.json
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
